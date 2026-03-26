@@ -8,4 +8,5 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `cls`  Limpa a tela do prompt.
 
 - ## 📸 Evidência de Execução
-<img width="909" height="623" alt="Screenshot 2026-03-26 191431" src="https://github.com/user-attachments/assets/032bc205-9bf4-4033-b7fb-6560f797b909" />
+
+<img width="909" height="623" alt="Screenshot 2026-03-26 191431" src="https://github.com/user-attachments/assets/860cd93f-9249-4a2c-b6e3-fda9083b64e0" />
